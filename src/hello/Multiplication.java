@@ -8,9 +8,14 @@ public class Multiplication {
 		System.out.println("Hello github");
 		c=a*b;
 		System.out.println("Multiplication is:"+c);
-		
+		 
+	            String d = null; //null value
+	            System.out.println(d.charAt(0));
+	       
+	          
+	       
 
 		
-	
+	}
 
 }
